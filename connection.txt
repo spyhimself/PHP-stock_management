@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+<?php
+$con = mysqli_connect('localhost', 'root', '', 'db_stock');
+
+if(!$con){
+	die("Error: Failed to connect to database");
+}
+?>
+
+
+=======
+<?php
+$con = mysqli_connect('localhost', 'root', '', 'db_stock');
+
+if(!$con){
+	die("Error: Failed to connect to database");
+}
+?>
+
+
+>>>>>>> origin/master
